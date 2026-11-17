@@ -7,6 +7,6 @@ Auditail checks every action an AI agent takes against a policy the agent can't 
 - **Website:** [auditail.io](https://auditail.io) · **Docs:** [auditail.io/docs](https://auditail.io/docs) · **Security:** [auditail.io/docs/security](https://auditail.io/docs/security)
 - **SDKs:** [`auditail-sdk`](https://www.npmjs.com/package/auditail-sdk) (TypeScript) · [`auditail`](https://pypi.org/project/auditail/) (Python)
 - **Works with:** Stripe Issuing, Airwallex and Modern Treasury, or any agent framework (OpenAI Agents SDK, LangChain)
-- **Open source:** the SDKs and the server are [MIT-licensed](https://github.com/auditailhq/auditail) and can be self-hosted
+- **Verify without trusting us:** the SDKs, the offline verifier and the MCP proxy are [open source (MIT)](https://github.com/auditailhq/auditail-sdk); everything Auditail signs checks out offline
 
 Private beta, working with design partners in payments, lending and neobanking. Contact: [hello@auditail.io](mailto:hello@auditail.io)
